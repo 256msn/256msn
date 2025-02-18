@@ -12,11 +12,11 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3">
 </p>
 
-<img align="right" src="https://github.com/256msn/256msn/blob/main/github-metrics.svg">
+<img align="right" src="https://github.com/256msn/256msn/">
 
 ### Welcome to my Profile!
 - ✔️ Certified in HTML5, CSS3, JavaScript
 - ⚡ Comfortable with Java, Go, PHP, JavaScript/TypeScript
-- 🌱 Currently tinkering with Rust, C, x86 Assembly
+- 🌱 Currently tinkering with Python
 
 
